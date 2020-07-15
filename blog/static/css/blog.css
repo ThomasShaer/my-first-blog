@@ -43,12 +43,10 @@ h1, h2, h3, h4 {
 
 .post {
   margin: auto;
-  border: 3px solid green;
   padding: 10px;
 }
 
 .post h2 a, .post h2 a:visited {
      margin: auto;
-  border: 3px solid green;
   padding: 10px;
 }
