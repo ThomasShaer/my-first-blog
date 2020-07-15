@@ -1,7 +1,5 @@
 
-.header {
-	float: right;
-}
+
 
 .page-header {
     background-color: #C25100;
@@ -45,14 +43,12 @@ h1, h2, h3, h4 {
 
 .post {
   margin: auto;
-  width: 50%;
   border: 3px solid green;
   padding: 10px;
 }
 
 .post h2 a, .post h2 a:visited {
      margin: auto;
-  width: 50%;
   border: 3px solid green;
   padding: 10px;
 }
